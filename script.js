@@ -72,6 +72,7 @@ const perguntas = [
   },
 ];
 
+
 let atual = 0;
 let perguntaAtual;
 
