@@ -27,7 +27,7 @@ const perguntas = [
         },
         {
             texto:"Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-            afirmacao: "afirmação"
+            afirmacao: "Essa atitude mostra que é possível realizar uma pesquisa utilizando diferentes fontes, combinando conhecimentos próprios, opiniões de colegas e informações encontradas na internet."
         }
     ]
   },
@@ -42,7 +42,7 @@ const perguntas = [
         },
         {
             texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendo a importância de proteger os trabalhadores.",
-            afirmacao: "afirmação"
+            afirmacao: "Essa preocupação é importante, pois a substituição de trabalhadores pela IA pode afetar empregos, sendo necessário buscar formas de proteger e preparar as pessoas para as mudanças no mercado de trabalho."
         }
     ]
   },
@@ -55,7 +55,8 @@ const perguntas = [
         },
         {
             texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
-            afirmacao: "afirmação"
+            afirmacao: "Inteligências artificiais populares que criam qualquer tipo de imagem a partir de uma descrição em texto."
+
         }
     ]
   },
@@ -64,7 +65,7 @@ const perguntas = [
     alternativas: [
         {
             texto:"Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-            afirmacao: "afirmação"
+            afirmacao: "Essa atitude considera que a IA pode ajudar na realização do trabalho, mas é importante utilizar o conteúdo gerado de forma responsável e revisar as informações antes de entregá-lo."
         },
         {
             texto:"O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
