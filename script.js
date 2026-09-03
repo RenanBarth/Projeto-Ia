@@ -10,11 +10,11 @@ const perguntas = [
        alternativas: [
         {
             texto:"Isso é assustador!",
-            afirmacao: "afirmação"
+            afirmacao: "No início ficou com medo do que essa tecnologia pode fazer."
         },
         {
             texto:"Isso é maravilhoso!",
-            afirmacao: "afirmação"
+            afirmacao: "Quis saber como usar IA no seu dia a dia."
         }
     ]
   },
@@ -23,7 +23,7 @@ const perguntas = [
     alternativas: [
         {
             texto:"Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-            afirmacao: "afirmação"
+            afirmacao: "A IA pode ajudar na pesquisa e na compreensão do conteúdo, mas é importante verificar as informações encontradas."
         },
         {
             texto:"Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
@@ -36,7 +36,9 @@ const perguntas = [
     alternativas: [
         {
             texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-            afirmacao: "afirmação"
+            afirmacao:  "A IA pode transformar o mercado de trabalho, criando novas oportunidades e ajudando as pessoas a desenvolver novas habilidades."
+
+
         },
         {
             texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendo a importância de proteger os trabalhadores.",
@@ -49,7 +51,7 @@ const perguntas = [
     alternativas: [
         {
             texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
-            afirmacao: "afirmação"
+            afirmacao: "Os geradores de imagem com IA podem ajudar a transformar ideias em imagens de forma criativa e rápida."
         },
         {
             texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
@@ -66,7 +68,7 @@ const perguntas = [
         },
         {
             texto:"O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-            afirmacao: "afirmação"
+            afirmacao: "A IA é uma ferramenta de apoio, mas o conteúdo precisa ser revisado e complementado pelos alunos para garantir qualidade e participação no trabalho."
         }
     ]
   },
